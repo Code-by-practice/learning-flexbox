@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+}
+
+.form-row {
+  padding: 10px;
+  display: flex;
+}
+
+.form-row label {
+  flex: 1;
+}
+
+.form-row input {
+  flex: 2;
+}
