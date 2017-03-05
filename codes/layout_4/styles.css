@@ -1,0 +1,28 @@
+body {
+  padding: 20px;
+}
+
+.equal-height-container {
+  display: flex;
+}
+
+.first {
+  flex: 1;
+}
+
+.second {
+  flex: 1;
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+}
+
+.a {
+  background-color: #c0dbe2;
+  flex: 1;
+}
+
+.b {
+  background-color: #cdf1c3;
+  flex: 1;
+}
