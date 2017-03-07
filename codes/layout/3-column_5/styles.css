@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+}
+
+.column-1 {
+  border: 2px solid green;
+  flex: 1;
+}
+
+.column-2 {
+  border: 2px solid blue;
+  flex: 2;
+}
+
+.column-3 {
+  border: 2px solid red;
+  flex: 1;
+}
